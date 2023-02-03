@@ -1,3 +1,0 @@
-# Ejercicio de familiarización
-
-calculadora
